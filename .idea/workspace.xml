@@ -1,17 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="174a3177-72b5-4a1c-afc0-36e4878a916b" name="Changes" comment="" />
+    <list default="true" id="174a3177-72b5-4a1c-afc0-36e4878a916b" name="Changes" comment=":memo: 增加gitignore文件；增加 html转md文章；修改目录结构">
+      <change afterPath="$PROJECT_DIR$/docs/_media/2022-07-01-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_media/2022-07-01-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_media/readme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/md/2022-docsify-使用指南.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/md/tool/2022-07-01-docker使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/md/tool/2022-07-01-git使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/md/tool/2022-07-01-html转md使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/md/tool/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_coverpage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -24,18 +51,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="ssh.settings" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/linjiankai/ideaProjects/JKjenken.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\linjiankai\ideaProjects\JKjenken.github.io\docs\md\tool" />
+      <recent name="E:\linjiankai\ideaProjects\JKjenken.github.io\docs\_media" />
+      <recent name="E:\linjiankai\ideaProjects\JKjenken.github.io\docs\md\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\linjiankai\ideaProjects\JKjenken.github.io\docs\_media" />
+      <recent name="E:\linjiankai\ideaProjects\JKjenken.github.io\docs\md" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,7 +87,26 @@
       <option name="presentableId" value="Default" />
       <updated>1647881066964</updated>
       <workItem from="1647881068924" duration="653000" />
+      <workItem from="1656566891538" duration="3698000" />
+      <workItem from="1656638709596" duration="4681000" />
+      <workItem from="1657087095461" duration="6116000" />
+      <workItem from="1657094218220" duration="1866000" />
     </task>
+    <task id="LOCAL-00001" summary=":memo: 增加gitignore文件；增加 html转md文章；修改目录结构">
+      <created>1657094126379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657094126379</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":memo: 增加gitignore文件；增加 html转md文章；修改目录结构">
+      <created>1657096076987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657096076987</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,6 +115,56 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="159a9b0a-8981-4123-ad84-db55e4923304">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="3e3ef188-978f-453a-bfd8-a7d7e5732de6">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -62,5 +172,14 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="159a9b0a-8981-4123-ad84-db55e4923304" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":memo: 增加gitignore文件；增加 html转md文章；修改目录结构" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 增加gitignore文件；增加 html转md文章；修改目录结构" />
   </component>
 </project>
