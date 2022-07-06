@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="174a3177-72b5-4a1c-afc0-36e4878a916b" name="Changes" comment=":memo: 增加gitignore文件；增加 html转md文章；修改目录结构">
-      <change afterPath="$PROJECT_DIR$/docs/_media/2022-07-01-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_media/2022-07-01-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_media/readme.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/md/2022-docsify-使用指南.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/md/tool/2022-07-01-docker使用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/md/tool/2022-07-01-git使用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/md/tool/2022-07-01-html转md使用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/md/tool/img.png" afterDir="false" />
+    <list default="true" id="174a3177-72b5-4a1c-afc0-36e4878a916b" name="Changes" comment=":memo: edit md">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_coverpage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/tool/2022-07-01-html转md使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/md/tool/2022-07-01-html转md使用.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/linjiankai/ideaProjects/JKjenken.github.io",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/linjiankai/ideaProjects/JKjenken.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
@@ -90,7 +79,8 @@
       <workItem from="1656566891538" duration="3698000" />
       <workItem from="1656638709596" duration="4681000" />
       <workItem from="1657087095461" duration="6116000" />
-      <workItem from="1657094218220" duration="1866000" />
+      <workItem from="1657094218220" duration="2313000" />
+      <workItem from="1657097533146" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary=":memo: 增加gitignore文件；增加 html转md文章；修改目录结构">
       <created>1657094126379</created>
@@ -106,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657096076987</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=":memo: 增加gitignore文件；增加 html转md文章；修改目录结构">
+      <created>1657096255789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657096255789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +176,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
     <MESSAGE value=":memo: 增加gitignore文件；增加 html转md文章；修改目录结构" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: 增加gitignore文件；增加 html转md文章；修改目录结构" />
+    <MESSAGE value=":memo: edit md" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: edit md" />
   </component>
 </project>
